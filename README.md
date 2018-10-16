@@ -37,3 +37,5 @@ Python script that is initiating the SSH session.
 
 # 3	Software Requirements
 Requires Python 3.6 or higher with the ssh2-python module installed.
+
+![](images/image_SSH.png)
